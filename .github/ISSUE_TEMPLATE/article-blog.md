@@ -1,7 +1,7 @@
 ---
 name: Article/Blog
-about: 'ArticleTitle: '
-title: ''
+about: 'Write Blog@TalentBrick'
+title: 'ArticleTitle: '
 labels: ''
 assignees: ''
 
