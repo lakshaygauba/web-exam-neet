@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://inbo.talentbrick.com/
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://inbo.talentbrick.com/
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://inbo.talentbrick.com/
-  image_url: https://github.com/slorber.png
+meghan:
+  name: Meghan HK
+  title: NEET UG 2021 | AIR 5 
+  url: https://ask.talentbrick.com/u/Meghan
+  image_url: https://cdn.statically.io/avatar/M
+  
+light:
+  name: Light
+  title: TalentBrick Founder
+  url: https://ask.talentbrick.com/u/Light
+  image_url: https://ask.talentbrick.com/assets/avatars/xqIbadcXAGdTOO0f.png
