@@ -59,6 +59,6 @@ In addition to all this, I also appeared for NSEP, NSEC, and NSEB in class 11, I
 
 :::note
 
-I also read the study package provided by my coaching, that is Aakash Institute, for each chapter. I recommend reading whatever study material your institute provides, which will help you in covering whatever material you require other than NCERT. If you do not attend any coaching, you might need some more material to study topics that are required but beyond NCERT.
+I also read the study package provided by my coaching, that is Aakash Institute, for each chapter. I recommend reading whatever study material your institute provides, which will help you in covering whatever material you require other than NCERT. If you do not attend any coaching, you might need some more material to study topics that are required but beyond NCERT. I also used NCERT Maps by Aakash, which helped me revise NCERT topics quickly, when NEET was only a few days away. 
 
 :::
