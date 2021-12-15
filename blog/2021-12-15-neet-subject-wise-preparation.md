@@ -12,7 +12,7 @@ Hi everyone! Here’s how you can prepare for NEET, with advice for all three, P
 ## Physics
 PCB students should ensure that they are clear with mathematics taught up to class 10, especially topics like trigonometry, linear equations, quadratic equations, coordinate geometry, probability and graphs. Also, it is recommended that you study basic calculus and vectors needed in physics in a proper manner.
 
-### Focus on Class Notes
+Focus on Class Notes!
 Read [NCERT](https://amzn.to/3IR2dIz) and solve back exercises, including additional exercises. I don’t recommend solving additional exercises for modern physics chapters, because they are of a much higher level than what is required in NEET.
 
 [NCERT](https://amzn.to/3IR2dIz) holds special importance when it comes to chapters like thermodynamics, atomic and nuclear physics.
