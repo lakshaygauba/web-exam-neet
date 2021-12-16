@@ -1,7 +1,8 @@
 ---
 title: Experience During NEET Exam
 authors: meghan
-tags: [experience, story, time management]
+tags: [experience, story, time management, exclusive, topper]
+image: https://icdn.talentbrick.com/main/meghan-air-5.png
 ---
 
 The National Eligibility cum Entrance test started days earlier than September 12 2021 . Having a grand start to my preparation journey and a hardworking middle ground, lockdown and emotional breakdown suffering from covid, beating anxiety of all levels and entering the dooms day I had already made all possible mistakes and NEET was a place to deal with all those failures and emotions and improve upon them.
