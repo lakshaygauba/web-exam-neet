@@ -3,6 +3,7 @@ title: NEET subject-wise Preparation Strategy
 authors: lakshay
 tags: [experience, strategy, subject-wise]
 slug: neet-subject-wise-preparation-strategy
+image: https://icdn.talentbrick.com/main/neet-article-1.png
 ---
 
 Hi everyone! Here’s how you can prepare for NEET, with advice for all three, Physics, Chemistry and Biology.
