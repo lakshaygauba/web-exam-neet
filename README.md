@@ -5,4 +5,4 @@ Prepare for National Eligibility cum Entrance Test at a glance with TalentBrick 
 
 ## License
 
-INBO@TalentBrick is open-source software licensed under the [AGPL License](https://github.com/talentbrick/web-exam-neet/blob/main/LICENSE.md).
+NEET@TalentBrick is open-source software licensed under the [AGPL License](https://github.com/talentbrick/web-exam-neet/blob/main/LICENSE.md).
