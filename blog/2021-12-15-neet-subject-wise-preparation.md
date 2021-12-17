@@ -60,7 +60,9 @@ In addition to all this, I also appeared for NSEP, NSEC, and NSEB in class 11, I
 
 :::note
 
-I also read and solved the study packages and practice books provided by my coaching, that is Aakash Institute, for each chapter. I recommend reading and solving whatever study material your institute provides, which will help you practice well and you in covering whatever material you require other than NCERT. If you do not attend any coaching, you might need some more material to study topics that are required but beyond NCERT. 
-I also used NCERT Maps by Aakash, which helped me revise NCERT topics quickly, when NEET was only a few days away. 
+I also read and solved the study packages and practice books provided by my coaching, that is Aakash Institute, for each chapter. I recommend reading and solving whatever study material your institute provides, which will help you practice well and you in covering whatever material you require other than NCERT. If you do not attend any coaching, you might need some more material to study topics that are required but beyond NCERT.
 
+I also used NCERT Maps by Aakash, which helped me revise NCERT topics quickly, when NEET was only a few days away.
+
+Another point I want to add is that you can use NTA Chapterwise Tests for NEET for all subjects, as they give you good practice. Give priority to your coaching material first though. Also, not all questions mentioned are relevant to NEET and you should not hope to get full marks even when you are fully prepared for NEET for that chapter (And it is okay!).
 :::
