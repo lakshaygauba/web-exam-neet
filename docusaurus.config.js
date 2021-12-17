@@ -56,6 +56,7 @@ const config = {
   tagline: 'Prepare for National Eligibility cum Entrance Test at a glance with TalentBrick open-source education model.',
   url: 'https://neet.talentbrick.com',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
