@@ -41,10 +41,10 @@ Solve [previous years’ questions](https://amzn.to/31Wf4IU) and again, [NEET Ch
 
 ### Organic Chemistry
 Some previous years’ questions of organic chemistry go well beyond NCERT text, so read up all the required material to solve those questions too.
-You should be confident with the mechanism of all those organic reactions whose mechanisms [NCERT textbooks](https://amzn.to/3IR2dIz) mention. You can practice organic chemistry questions from [previous years’ JEE Mains papers](https://amzn.to/3GNE1oD) and if you are confident enough and have sufficient time, you can also go for [previous years’ JEE Advanced questions](https://amzn.to/31QIqsp). I also practiced a few chapters from [MS Chouhan (Basic edition)](https://amzn.to/3GNPcO6).
+You should be confident with the mechanism of all those organic reactions whose mechanisms [NCERT textbooks](https://amzn.to/3IR2dIz) mention. You can practice organic chemistry questions from [previous years’ JEE Mains papers](https://amzn.to/3GNE1oD) and if you are confident enough and have sufficient time, you can also go for [previous years’ JEE Advanced questions](https://amzn.to/31QIqsp). I also practiced a few chapters from [MS Chouhan (Basic edition)](https://amzn.to/3GNPcO6). 
 
-I also read very few portions of [Solomons’ international edition](https://amzn.to/3EX9PqX) for conceptual clarity.
-For physical chemistry, conceptual clarity is essential. Also, sufficient practice makes it even better. So, I advise using the [Physical Chemistry book by Mr. Narendra Avasthi](https://amzn.to/3dVd8mx) by Balaji Publications. You can also practice using [previous years’ JEE Mains questions](https://amzn.to/3GNE1oD).
+I also read very few portions of [Solomons’ international edition](https://amzn.to/3EX9PqX) for conceptual clarity. Also if you wish to, you can read Reactions, Rearrangements and Reagents by SN Sanyal for better understanding of reaction mechanisms. I myself went through the whole book once or twice.
+For physical chemistry, conceptual clarity is essential. Also, sufficient practice makes it even better. So, I advise using the [Physical Chemistry book by Mr. Narendra Avasthi for JEE(I tried the JEE one following my teacher's recommendation so I don't really know how good the NEET one is)](https://amzn.to/3dVd8mx) by Balaji Publications. You can also practice using [previous years’ JEE Mains questions](https://amzn.to/3GNE1oD).
 
 For inorganic chemistry, solving [previous years’ NEET questions](https://amzn.to/31Wf4IU) and being well-versed with the content in [NCERT textbooks](https://amzn.to/3IR2dIz) is sufficient. Use mnemonics to memorise elements of various groups and certain trends in periodic tables.
 
