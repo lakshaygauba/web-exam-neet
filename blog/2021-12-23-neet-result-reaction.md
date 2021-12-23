@@ -15,3 +15,4 @@ My hands were shaking and they turned cold (out of nervousness or because of the
 After refreshing the inbox for such a long time I was quite tired and actually , I was the one requiring refreshment. So I left refreshing my mailbox anymore , though only for a short while.
 
 After sometime I again opened my mailbox and this time , to my surprise I could see the mail from NTA in my inbox. But I did not have enough courage to click on it , still after gathering some , I opened it finally and my scorecard was on my screen.
+I experienced mixed feelings superceded by happiness and excitement later on.
